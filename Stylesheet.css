@@ -1,0 +1,189 @@
+@keyframe judul {
+    
+}
+
+.judul {
+    position: fixed;
+    font-family:'Grandstander', cursive;
+    top: 20%;
+    left: 3%;
+    font-size: 80px;
+    width: 8000px;
+    color: #fff;
+    text-shadow:
+        0 0 0.5px #fff,
+        0 0 1px #fff,
+        0 0 5px #fff,
+        0 0 11px 	#fae5e1,
+        0 0 20px #fff
+}
+@keyframes sheesh {
+
+    0%, 100%{color: #ffeaec;
+        text-shadow:
+        0 0 0.5px #fff,
+        0 0 1px #fff,
+        0 0 5px #fff,
+        0 0 11px 	#f0bbc3,
+        0 0 20px #f0bbc3;
+    }
+    10%, 90% {
+        color: #fff;
+        text-shadow:
+        0 0 0.5px #fff,
+        0 0 1px #fff,
+        0 0 5px #fff,
+        0 0 11px 	#fae5e1,
+        0 0 20px #fff;
+}}
+
+#h1{
+    animation: sheesh 2.0s ease-in-out infinite;
+    animation-delay: .0s;
+}
+
+#h2{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: .2s;
+}
+
+#h3{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: .4s;
+}
+
+#h4{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: .6s;
+}
+
+#h5{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: .8s;
+}
+
+#h6{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 1.0s;
+}
+
+#h7{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 1.2s;
+}
+
+#h8{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 1.4s;
+}
+
+#h9{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 1.6s;
+}
+
+#h10{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 1.8s;
+}
+
+#h11{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 2.0s;
+}
+
+#h12{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 2.2s;
+}
+
+#h13{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 2.4s;
+}
+
+#h14{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 2.6s;
+}
+
+#h15{
+    animation: sheesh 3.0s ease-in-out infinite;
+    animation-delay: 2.8s;
+}
+
+
+#lala {
+    position: fixed;
+}
+
+#subs {
+    font-size: 30px;
+    width: 600px;
+    font-family:'Grandstander', cursive;
+    position: absolute;
+    left: 4px;
+    letter-spacing: 5px;
+    margin-top:15px;
+
+}
+
+body {
+    
+    background-color: #000;
+}
+
+div{
+    position: absolute;
+    font-family: 'Grandstander', cursive;
+    color: #F0ECE5;
+}
+
+#box1 { 
+    top: 64%;
+    font-family: 'Grandstander', cursive;
+    left: 3%;
+    padding: 20px 60px;
+    font-size: 30px;
+    letter-spacing: 8px;
+    border:solid #F0ECE5;
+    border-radius: 25px;
+    border-width: 1px;
+    box-shadow:  
+    0 0 1px #fff,
+    0 0 3px #fff,
+    0 0 7px #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa;
+      
+}
+
+#box2 { 
+    top: 64%;
+    font-family: 'Grandstander', cursive;
+    left: 23%;
+    padding: 20px 60px;
+    font-size: 30px;
+    letter-spacing: 8px;
+    border:solid #F0ECE5;
+    border-radius: 25px;
+    border-width: 1px;
+    box-shadow:  
+    0 0 1px #fff,
+    0 0 3px #fff,
+    0 0 7px #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa;;
+}
+
+
+
+
