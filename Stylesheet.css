@@ -4,9 +4,10 @@
 
 .judul {
     font-family:'Grandstander', cursive;
+    margin-top: 200px;
     margin-left: 3%;
     font-size: 80px;
-    width: 720px;
+    width: 800px;
     color: #fff;
     word-wrap: break-word;
     text-shadow:
