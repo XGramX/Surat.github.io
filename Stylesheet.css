@@ -4,6 +4,7 @@
 
 .judul {
     font-family:'Grandstander', cursive;
+    overflow: auto;
     margin-top: 20%;
     margin-left: 3%;
     font-size: 80px;
@@ -124,7 +125,7 @@
     margin-left: 33px;
     letter-spacing: 5px;
     margin-top:15px;
-
+    overflow: auto;
 }
 
 body {
