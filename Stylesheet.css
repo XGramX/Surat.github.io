@@ -140,7 +140,7 @@ div{
 }
 
 #box1 { 
-    margin-top: 400px;
+    margin-top: 64%;
     font-family: 'Grandstander', cursive;
     left: 3%;
     padding: 20px 60px;
@@ -163,7 +163,7 @@ div{
 }
 
 #box2 { 
-    margin-top: 400px ;
+    margin-top: 64% ;
     font-family: 'Grandstander', cursive;
     left: 23%;
     padding: 20px 60px;
