@@ -3,7 +3,7 @@
 }
 
 .judul {
-    position: fixed;
+    position: relative;
     font-family:'Grandstander', cursive;
     top: 20%;
     left: 3%;
@@ -121,7 +121,7 @@
     font-size: 30px;
     width: 600px;
     font-family:'Grandstander', cursive;
-    position: absolute;
+    position: relative;
     left: 4px;
     letter-spacing: 5px;
     margin-top:15px;
@@ -134,7 +134,7 @@ body {
 }
 
 div{
-    position: absolute;
+    position: relative;
     font-family: 'Grandstander', cursive;
     color: #F0ECE5;
 }
