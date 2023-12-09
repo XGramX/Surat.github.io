@@ -3,7 +3,7 @@
 }
 
 .judul {
-    position: relative;
+    position: fixed;
     font-family:'Grandstander', cursive;
     top: 20%;
     left: 3%;
@@ -121,8 +121,8 @@
     font-size: 30px;
     width: 600px;
     font-family:'Grandstander', cursive;
-    position: relative;
-    left: 4px;
+    position: fixed;
+    left: 33px;
     letter-spacing: 5px;
     margin-top:15px;
 
@@ -134,13 +134,13 @@ body {
 }
 
 div{
-    position: relative;
+    position: fixed;
     font-family: 'Grandstander', cursive;
     color: #F0ECE5;
 }
 
 #box1 { 
-    margin-top: 64%;
+    margin-top: 400px;     ;
     font-family: 'Grandstander', cursive;
     left: 3%;
     padding: 20px 60px;
@@ -163,7 +163,7 @@ div{
 }
 
 #box2 { 
-    margin-top: 64% ;
+    top: 64%;
     font-family: 'Grandstander', cursive;
     left: 23%;
     padding: 20px 60px;
