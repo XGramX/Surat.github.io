@@ -4,11 +4,10 @@
 
 .judul {
     font-family:'Grandstander', cursive;
-    overflow: auto;
-    margin-top: 40%;
+    margin-top: 20%;
     margin-left: 3%;
     font-size: 80px;
-    width: 690px;
+    width: 720px;
     color: #fff;
     text-shadow:
         0 0 0.5px #fff,
@@ -125,13 +124,12 @@
     margin-left: 33px;
     letter-spacing: 5px;
     margin-top:15px;
-    overflow: auto;
+
 }
 
 body {
     
     background-color: #000;
-    overflow: auto;
 }
 
 div{
@@ -164,7 +162,7 @@ div{
 }
 
 #box2 { 
-    margin-top: 20%;
+    top: 64%;
     font-family: 'Grandstander', cursive;
     margin-left: 23%;
     padding: 20px 60px;
